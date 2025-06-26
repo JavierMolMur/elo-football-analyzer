@@ -1,0 +1,19 @@
+# Ignorar versiones antiguas
+versiones_anteriores/
+*.bak
+*.old
+
+# Ignorar datos grandes
+data/
+*.csv
+*.json
+*.txt
+*.png
+
+# Ignorar archivos de configuración sensibles
+config.py
+
+# Archivos temporales
+*.pyc
+__pycache__/
+.env
