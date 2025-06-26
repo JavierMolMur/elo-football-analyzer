@@ -24,17 +24,3 @@ Herramienta de análisis y simulación de puntuaciones Elo para equipos de fútb
 ## 📊 Visualización
 
 Puedes ejecutar `calcular_elo_grafico.py` para generar un gráfico estático con la evolución del Elo de los equipos por jornada. Esto te permite detectar tendencias o cambios bruscos en rendimiento.
-
-## 📦 Requisitos
-
-- Python 3.9+
-- Bibliotecas:
-  - `matplotlib`
-  - `json`
-  - `datetime`
-  - `math`
-
-Instalación de dependencias:
-
-```bash
-pip install matplotlib
